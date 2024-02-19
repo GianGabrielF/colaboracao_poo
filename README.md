@@ -20,6 +20,24 @@ Faz o snapshot de um arquivo na preparação para versionamento
 
 ```bash
 git add [arquivo]
+### push
+
+Pega os commits presentes feitos no seu computador e leva eles pro repositório no Github, ao fazer isso, é pedido a identificação do usuário atravéz do username e do Token de acesso
+
+``` bash
+
+git push
+
+```
+
+### pull
+
+Pega o repositório do Github e trás a condição atual dele para o seu computador
+
+```bash
+
+git pull
+
 ```
 
 ### commit
@@ -31,3 +49,12 @@ Fonte: Atlassian
 commit -m "Nome do commit"
 ```
 
+### clone
+
+O comando git clone copia um repositório do Git existente. É parecido com o checkout do SVN, com a diferença de que a "cópia de trabalho" é um repositório completo do Git — que tem seu próprio histórico, gerencia seus próprios arquivos e é um ambiente isolado como um todo do repositório original.
+Fonte: Atlassian
+
+```bash
+git clone
+```
+>>>>>>> 40e1b01d0bcaad71abce4ba46138623b2ceaee3c
