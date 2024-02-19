@@ -2,9 +2,5 @@
 
 - Gian
 - Beatriz Abreu
-
 - Wagner Santos
-
--Beatriz Abreu
-
--Bruno Hamon Porto
+- Bruno Hamon Porto
