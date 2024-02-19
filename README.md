@@ -16,3 +16,11 @@ Fonte: Atlassian
 commit -m "Nome do commit"
 ```
 
+### clone
+
+O comando git clone copia um repositório do Git existente. É parecido com o checkout do SVN, com a diferença de que a "cópia de trabalho" é um repositório completo do Git — que tem seu próprio histórico, gerencia seus próprios arquivos e é um ambiente isolado como um todo do repositório original.
+Fonte: Atlassian
+
+```bash
+git clone
+```
