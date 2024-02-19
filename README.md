@@ -57,4 +57,3 @@ Fonte: Atlassian
 ```bash
 git clone
 ```
->>>>>>> 40e1b01d0bcaad71abce4ba46138623b2ceaee3c
