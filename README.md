@@ -8,6 +8,26 @@
 
 ## Comandos Git
 
+### push
+
+Pega os commits presentes feitos no seu computador e leva eles pro repositório no Github, ao fazer isso, é pedido a identificação do usuário atravéz do username e do Token de acesso
+
+``` bash
+
+git push
+
+```
+
+### pull
+
+Pega o repositório do Github e trás a condição atual dele para o seu computador
+
+```bash
+
+git pull
+
+```
+
 ### commit
 
 Os commits são as unidades estruturais de um cronograma de projeto Git. Podem ser considerados instantâneos ou marcos ao longo do cronograma de um projeto Git. São criados com o comando git commit para capturar o estado de um projeto naquele momento.
