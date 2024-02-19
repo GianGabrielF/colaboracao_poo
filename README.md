@@ -1,3 +1,4 @@
 # colaboracao_poo
 
-## Gian
+- Gian
+- Beatriz Abreu
